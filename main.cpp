@@ -4,7 +4,7 @@
 #include <cstdlib>
 
 using namespace std;
-
+// siema zmieniam // jan //
 void triangle(int height)
 {
     char items[] = {'*','&','#','@'};
